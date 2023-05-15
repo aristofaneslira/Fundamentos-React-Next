@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-    <img alt="Fundamentos" src=".fundamentos/github/cover.svg" />
+    <img alt="Fundamentos" src="fundamentos/.github/cover.svg" />
 </h2>
 
 <br>
