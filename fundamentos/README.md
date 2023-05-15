@@ -1,11 +1,4 @@
-<p align="center">
-<img src=".github/logo.png" alt="Logo" width="100" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TDEV-01-blue" alt="Semana Transformação.DEV #01" />
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue" alt="License">   
-</p>
 
 <h2 align="center">
     <img alt="Fundamentos" src=".github/cover.svg" />
@@ -53,5 +46,3 @@ Projeto foi desenvolvido durante a **[Semana Tranformação.DEV](https://transfo
 Esse projeto está sob a [licença MIT](LICENSE.md).
 
 ---
-
-Cod3r com ❤️ -  [Nossa Comunidade no Discord](https://discord.gg/JexVkcc3vr)
